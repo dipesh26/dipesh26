@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dipesh Mahajan</h1>
 <h3 align="center">Aspiring AI/ML Engineer | Python Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dipesh26&label=Profile%20views&color=0e75b6&style=flat" alt="dipesh26" />
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="https://komarev.com/ghpvc/?username=dipesh26&label=Profile%20views&color=0e75b6&style=flat" alt="dipesh26" /> -->
+<!-- </p> -->
 
 ---
 
@@ -46,7 +46,7 @@
 
 ### 🌍 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/dipeshmahajan26/) (if you have one)
+- 🌐 [Website](https://dipesh-ml.vercel.app/)
 - 📬 [Email Me](mailto:dipeshmahajan26@gmail.com)
 
 ---
